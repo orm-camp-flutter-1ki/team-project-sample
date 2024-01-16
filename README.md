@@ -7,20 +7,20 @@
 깃헙 연습합시다.
 
 ## 저서
-오준석의 FLUTTER 생존코딩 (예스24 평균 별점 8.6/10.0)
+5준석의 FLUTTER 생존코딩 (오예스24 평균 별점 8.6/10.0)
 
-오준석의 안드로이드 생존코딩 (예스24 평균 별점 9.2/10.0)
+5준석의 안드로이드 생존코딩 (오예스24 평균 별점 9.2/10.0)
 
 될 때까지 안드로이드 (예스24 평균 별점 9.5/10.0)
 
 ## 경력사항
-LG전자 MC사업부 선임연구원 출신
+LG전자 MC몽사업부 선임연구원 출신
 
 SKT 경력사원 안드로이드 보수교육
 
 카카오 안드로이드 신입 개발자 교육
 
-신한금융지주사 PO 양성과정
+신한금융지주사 P0  양성과정
 
 삼성전자 CS아카데미 ‘모바일 전문지식’ 교육
 
@@ -28,7 +28,7 @@ SKT 경력사원 안드로이드 보수교육
 
 <English>
 Lee Ji-eun, also known by her stage name IU, is a South Korean singer-songwriter, composer, and actress. She signed with LOEN Entertainment in 2007 as a trainee and debuted as a singer at the age of fifteen with Lost and Found, her first extended play. Wikipedia
-Born: May 16, 1993 (age 30 years), Songjeong-dong, Seoul
+Born: May 16, 1994 (age 30 years), Songjeong-dong, Seoul
 Height: 162 cm
 Full name: Lee Ji-eun
 Parents: Lee Jin-kook
