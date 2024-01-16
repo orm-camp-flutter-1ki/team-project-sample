@@ -14,7 +14,13 @@ Full name: Lee Ji-eun
 Parents: Lee Jin-kook
 Siblings: Lee Jong-hoon
 Genres: K-pop; R&\B;ㅋ soul
+  
+### 충돌 발생: ![image](https://github.com/orm-camp-flutter-1ki/team-project-sample/assets/49604099/2010275c-e5aa-4f96-9c63-a04a0ebf4f95)
+여기 "생존코딩"의 저자이자 개발 교육과 관련된 유튜브 채널을 운영하는 오준석을 연상시키는 가상의 캐릭터의 이미지가 있습니다. 이 캐릭터는 오준석의 전문성과 그가 제공하는 교육 콘텐츠의 특성을 반영하여 만들어졌습니다. 술 저자 및 코딩 강사의 전문적이고 친근한 분위기를 표현하고 있습니다.
+<img src="https://github.com/orm-camp-flutter-1ki/team-project-sample/assets/49604099/bb40cf47-14ba-471d-86c3-f4014d4257c4" width="20%">
+<img src="https://github.com/orm-camp-flutter-1ki/team-project-sample/assets/49604099/4d6a821e-bdf7-4161-b0b2-3dec29958b25" width="20%">
 
+### 이미지 반복
 <img width="442" alt="image" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MjBfMjUz%2FMDAxNTk3ODkyMzEzMjQ1.pMAjMJEvPIF-n0xZ-ZV_fUCGQBLZwWqMPrg2E4twALAg._MxyVfYhHvCZ7CCCl7Jm1uLS02NvQAyQpekMOTGOsdsg.JPEG.cafemooee%2F1E7A9328.JPG&type=sc960_832">
 <img width="442" alt="image" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEyMTJfNjcg%2FMDAxNzAyMzQ5NjU0NTYw.or6QIK7NCYWMjAWLfR9hasiBSvUoqL7noae8TbvQtq8g.q2e1EfWCD__1i-cFYcIl39rqK63NrrPdcM4cP90huIkg.PNG.qksh12%2Fimage.png&type=sc960_832">
 이미지<img width="442" alt="image" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjExMTZfMjM4%2FMDAxNjY4NTg3OTAwMjkw.o2kxbR-51SHiQv_4nO9GUG2bR2uTwWQd9TwoVqKSAlog.RWqOoo5bv9RqNDC98IFK6fMPlbVHu64wJfKUzoSW3Qgg.JPEG.hyper_cloud%2FDSC01095.jpg&type=sc960_832"><img width="442" alt="image" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MjBfMjUz%2FMDAxNTk3ODkyMzEzMjQ1.pMAjMJEvPIF-n0xZ-ZV_fUCGQBLZwWqMPrg2E4twALAg._MxyVfYhHvCZ7CCCl7Jm1uLS02NvQAyQpekMOTGOsdsg.JPEG.cafemooee%2F1E7A9328.JPG&type=sc960_832">
