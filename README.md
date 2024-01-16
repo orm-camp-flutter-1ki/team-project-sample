@@ -14,3 +14,4 @@ Full name: Lee Ji-eun
 Parents: Lee Jin-kook
 Siblings: Lee Jong-hoon
 Genres: K-pop; R&\B;ㅋ soul
+</English>
