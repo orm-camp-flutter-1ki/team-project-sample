@@ -2,7 +2,7 @@
 
 <img src="https://static.aiffel.io/assets/flutter/ohjoonseok-v2.png">
 
-아이유는 아이가 아니에요 정말요?- 네 정말요~ 
+아이유는 아이가 아니에요 정말요?- 네 정말요~ 사스가 
 
 깃헙 연습합시다.
 
