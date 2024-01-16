@@ -1,4 +1,6 @@
-# 아이유 (IU: 여자 가수, 랭킹 1위)
+# 오름캠프 Flutter 모바일 앱 과정
+
+<img src="https://static.aiffel.io/assets/flutter/ohjoonseok-v2.png">
 
 아이유는 아이가 아니에요 정말요?- 네 정말요~ 
 
