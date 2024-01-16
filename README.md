@@ -5,7 +5,6 @@
 아이유는 아이가 아니에요 정말요?- 네 정말요~ 사스가 
 안녕하세요
 깃헙 연습합시다.
-
 ## 저서
 오준석의 FLUTTER 생존코딩 (예스24 평균 별점 8.6/10.0)
 
@@ -25,6 +24,7 @@ SKT 경력사원 안드로이드 보수교육
 삼성전자 CS아카데미 ‘모바일 전문지식’ 교육
 
 ## 부제목
+코딩 어떻게 하면 잘 할 수있나요 ????????????????????
 
 <English>
 Lee Ji-eun, also known by her stage name IU, is a South Korean singer-songwriter, composer, and actress. She signed with LOEN Entertainment in 2007 as a trainee and debuted as a singer at the age of fifteen with Lost and Found, her first extended play. Wikipedia
