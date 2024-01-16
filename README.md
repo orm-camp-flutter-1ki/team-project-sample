@@ -12,3 +12,4 @@ Siblings: Lee Jong-hoon
 Genres: K-pop; R&\B; soul
 
 <img width="442" alt="image" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MjBfMjUz%2FMDAxNTk3ODkyMzEzMjQ1.pMAjMJEvPIF-n0xZ-ZV_fUCGQBLZwWqMPrg2E4twALAg._MxyVfYhHvCZ7CCCl7Jm1uLS02NvQAyQpekMOTGOsdsg.JPEG.cafemooee%2F1E7A9328.JPG&type=sc960_832">
+<img width="442" alt="image" src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEyMTJfNjcg%2FMDAxNzAyMzQ5NjU0NTYw.or6QIK7NCYWMjAWLfR9hasiBSvUoqL7noae8TbvQtq8g.q2e1EfWCD__1i-cFYcIl39rqK63NrrPdcM4cP90huIkg.PNG.qksh12%2Fimage.png&type=sc960_832">
