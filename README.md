@@ -34,7 +34,6 @@ SKT 경력사원 안드로이드 보수교육
 ## Q/A
 코딩 어떻게 하면 잘 할 수있나요 ????????????????????
 ㄴ 저도 궁금합니다
-ㄴ 이미지 검색앱 1시간 컷 하세요
 
 <English>
 Lee Ji-eun, also known by her stage name IU, is a South Korean singer-songwriter, composer, and actress. She signed with LOEN Entertainment in 2007 as a trainee and debuted as a singer at the age of fifteen with Lost and Found, her first extended play. Wikipedia
