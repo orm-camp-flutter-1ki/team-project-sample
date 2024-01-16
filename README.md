@@ -1,4 +1,4 @@
-# 아이유
+# 아이유(여자 가수)
 아이유는 아이가 아니에요
 
 ## 부제목
@@ -9,6 +9,6 @@ Height: 162 cm
 Full name: Lee Ji-eun
 Parents: Lee Jin-kook
 Siblings: Lee Jong-hoon
-Genres: K-pop; R&\B; soul
+
 
 <img width="442" alt="image" src="https://github.com/orm-camp-flutter-1ki/team-project-sample/assets/7101560/762b9e8c-e92c-460e-9526-8d76ffb88041">
