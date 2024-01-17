@@ -31,7 +31,7 @@ SKT 경력사원 안드로이드 보수교육
 유튜브: https://www.youtube.com/@survivalcoding
 인프런: https://www.inflearn.com/users/3439/@survivalcoding
 
-## 부제목
+## Q/A
 코딩 어떻게 하면 잘 할 수있나요 ????????????????????
 ㄴ 저도 궁금합니다
 
