@@ -2,8 +2,8 @@
 
 <img src="https://static.aiffel.io/assets/flutter/ohjoonseok-v2.png">
 
-아이유는 아이가 아니에요 정말요?- 네 정말요~ 사스가 
-안녕하세요
+아이유는 아이가 아니에요 정말요?- 네 정말요~ 사스가
+안녕하세요 
 깃헙 연습합시다.
 네 알겠습니다.
 
@@ -35,9 +35,7 @@ SKT 경력사원 안드로이드 보수교육
 코딩 어떻게 하면 잘 할 수있나요 ????????????????????
 ㄴ 저도 궁금합니다
 ㄴ 이미지 검색앱 1시간 컷 하세요
-답변 감사합니다. 
 깃허브 충돌 나고 싶네요
-
 
 <English>
 Lee Ji-eun, also known by her stage name IU, is a South Korean singer-songwriter, composer, and actress. She signed with LOEN Entertainment in 2007 as a trainee and debuted as a singer at the age of fifteen with Lost and Found, her first extended play. Wikipedia
