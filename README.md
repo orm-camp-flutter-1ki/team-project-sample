@@ -2,10 +2,10 @@
 
 <img src="https://static.aiffel.io/assets/flutter/ohjoonseok-v2.png">
 
-아이유는 아이가 아니에요 정말요?- 네 정말요~ 사스가 
-안녕하세요
-깃헙 연습합시다.
-네 알겠습니다.
+아이유는 아이가 아니에요 정말요?- 네 정말요~ 사스가 &nbsp
+안녕하세요 &nbsp
+깃헙 연습합시다.&nbsp
+네 알겠습니다.&nbsp
 
 ## 저서
 5준석의 FLUTTER 생존코딩 (오예스24 평균 별점 8.6/10.0)
