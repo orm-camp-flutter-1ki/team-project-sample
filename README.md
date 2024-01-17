@@ -28,8 +28,11 @@ SKT 경력사원 안드로이드 보수교육
 수원 세민직업전문학교 외부 강의 (Java, Web 기초, Flutter, Android)
 
 ### 링크
-유튜브: https://www.youtube.com/@survivalcoding
-인프런: https://www.inflearn.com/users/3439/@survivalcoding
+* 유튜브: https://www.youtube.com/@survivalcodin
+
+* 인프런: https://www.inflearn.com/users/3439/@survivalcoding
+
+* velog: https://velog.io/@jsoh/posts
 
 ## Q/A
 코딩 어떻게 하면 잘 할 수있나요 ????????????????????
