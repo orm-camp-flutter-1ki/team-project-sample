@@ -34,6 +34,8 @@ SKT 경력사원 안드로이드 보수교육
 
 * velog: https://velog.io/@jsoh/posts
 
+* 오름캠프과정: https://camp.orm.im/flutter?utm_source=modulabs&utm_medium=on_banner_all&utm_campaign=kdt_23_10&utm_content=m_bran_fl_orm-product_1023
+
 ## Q/A
 코딩 어떻게 하면 잘 할 수있나요 ????????????????????
 ㄴ 저도 궁금합니다
