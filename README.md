@@ -49,6 +49,10 @@ SKT 경력사원 안드로이드 보수교육
 이 모든 노하우를 담은 강의를 통해
 여러분은 3개월 만에 실무에 적합한 FLUTTER 개발자로 성장할 것입니다.
 
+* 오름캠프 2기 사전신청하기
+
+https://camp.orm.im/flutter?utm_source=modulabs&utm_medium=on_banner_all&utm_campaign=kdt_23_10&utm_content=m_bran_fl_orm-product_1023
+
 ## Q/A
 코딩 어떻게 하면 잘 할 수있나요 ????????????????????
 ㄴ 저도 궁금합니다
